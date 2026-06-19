@@ -1,7 +1,7 @@
 # https://github.com/AlexxIT/builder/blob/master/builder.sh
 name: go2rtc (dev)
 description: Dev version for advanced beta testers. Experimental features, for testing potential updates
-url: https://github.com/AlexxIT/go2rtc/tree/dev
+url: https://github.com/VaBanck/go2rtc/tree/dev
 image: ghcr.io/alexxit/go2rtc
 arch: [ amd64, aarch64, i386, armv7 ]
 
