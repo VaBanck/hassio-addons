@@ -1,1 +1,1 @@
-See https://github.com/AlexxIT/go2rtc/commits/dev/
+See https://github.com/VaBanck/go2rtc/commits/dev/
