@@ -2,7 +2,7 @@
 name: go2rtc (VaBank)
 description: Dev version for advanced beta testers. Experimental features, for testing potential updates
 url: https://github.com/Mo3he/go2rtc/tree/hksv
-image: ghcr.io/alexxit/go2rtc
+image: ghcr.io/Mo3he/go2rtc
 arch: [ amd64, aarch64, i386, armv7 ]
 
 # https://developers.home-assistant.io/docs/add-ons/configuration
