@@ -6,7 +6,7 @@ image: ghcr.io/Mo3he/go2rtc
 arch: [ amd64, aarch64, i386, armv7 ]
 
 # https://developers.home-assistant.io/docs/add-ons/configuration
-version: dev
+version: hksv
 slug: go2rtc-hksv
 init: false
 startup: system
